@@ -1,0 +1,7 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="200" rx="15" fill="#E6E6FA"/>
+    <rect x="110" y="70" width="80" height="60" rx="10" fill="#FFB7B2"/>
+    <circle cx="150" cy="100" r="20" fill="#B5EAD7"/>
+    <text x="150" y="140" text-anchor="middle" font-family="Arial" font-size="12" fill="#5A5A5A" font-weight="bold">Puzzle World</text>
+    <text x="150" y="170" text-anchor="middle" font-family="Arial" font-size="10" fill="#8A8A8A">Brain Teaser</text>
+</svg>

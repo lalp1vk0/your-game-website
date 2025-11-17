@@ -1,0 +1,6 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="200" rx="15" fill="#FFDAC1"/>
+    <rect x="110" y="70" width="80" height="40" rx="10" fill="#FFB7B2"/>
+    <circle cx="150" cy="90" r="12" fill="#E6E6FA"/>
+    <text x="150" y="160" text-anchor="middle" font-family="Arial" font-size="14" fill="#5A5A5A" font-weight="bold">Экстрим гонки</text>
+</svg>

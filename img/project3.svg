@@ -1,0 +1,5 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="200" rx="15" fill="#E6E6FA"/>
+    <polygon points="150,60 180,100 150,140 120,100" fill="#B5EAD7"/>
+    <text x="150" y="160" text-anchor="middle" font-family="Arial" font-size="14" fill="#5A5A5A" font-weight="bold">Космический исследователь</text>
+</svg>
